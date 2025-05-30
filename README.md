@@ -16,24 +16,24 @@ A feature-rich, responsive to-do list application built with React that helps yo
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](assets/Initial_template.png)
+![Main Interface](./assets/Initial_template.png)
 *Clean interface with background image and task list*
 
 ### Adding New Tasks
-![Adding Tasks](assets/Added_To_Do.png)
+![Adding Tasks](./assets/Added_To_Do.png)
 *Simple task addition with plus icon button*
 
 ### Edit Mode
-![Edit Mode](assets/Edit-Mode.png)
-![Successfully](assets/Successfully_Edited.png)
+![Edit Mode](./assets/Edit_Mode.png)
+![Successfully](./assets/Successfully_Edited.png)
 *Dedicated edit interface with UPDATE button*
 
 ### Completed Tasks
-![Completed Tasks](assets/Completed_To_Do.png)
+![Completed Tasks](./assets/Completeing_To_Do.png)
 *Visual strike-through for completed items*
 
 ## Deleted Tasks
-![Deleted Tasks](assets/Deleted_To_Do.png)
+![Deleted Tasks](assets/Deleting_To_Do.png)
 *Deleted Single, or Delete all*
 
 ## 🛠️ Technologies Used
