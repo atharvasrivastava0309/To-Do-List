@@ -16,7 +16,7 @@ A feature-rich, responsive to-do list application built with React that helps yo
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](./src/assets/Initial_template.png)
+![Main Interface](./src/assets/Initial_Template.png)
 *Clean interface with background image and task list*
 
 ### Adding New Tasks
