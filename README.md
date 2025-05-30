@@ -1,6 +1,6 @@
-# React To-Do List 📝
-
-A feature-rich, responsive to-do list application built with React that helps you manage your daily tasks efficiently. Features a beautiful background image, persistent local storage, and intuitive task management with real-time editing capabilities.
+# 📝 React To-Do List with Local Storage Integration
+- A feature-rich, responsive To-Do List application built with React that helps you manage daily tasks efficiently. This project emphasizes persistent task management using the browser's Local Storage, ensuring your tasks are saved across sessions without the need for a backend.
+- It features a modern UI with background imagery, inline editing, and intuitive user interactions for a seamless task-tracking experience.
 
 ## ✨ Features
 
